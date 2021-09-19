@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MissaelLopez
+- 👀 I’m interested in learn and improve my programming skills
+- 🌱 I am currently learning JavaScript and its derived technologies
+- 💞️ I am looking to collaborate in teams that develop web applications to gain experience
